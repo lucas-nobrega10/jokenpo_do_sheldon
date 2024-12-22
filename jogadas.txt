@@ -1,0 +1,9 @@
+Jogada 1: Papel vs Papel - Empate | Pontos: Você 0, Computador 0
+Jogada 2: Pedra vs Spock - Derrota | Pontos: Você 0, Computador 5
+Jogada 3: Lagarto vs Tesoura - Derrota | Pontos: Você 0, Computador 7
+Jogada 4: Spock vs Papel - Derrota | Pontos: Você 0, Computador 8
+Jogada 5: Papel vs Papel - Empate | Pontos: Você 0, Computador 8
+Jogada 6: Pedra vs Papel - Derrota | Pontos: Você 0, Computador 9
+Jogada 7: Tesoura vs Tesoura - Empate | Pontos: Você 0, Computador 9
+Jogada 8: Spock vs Tesoura - Vitória | Pontos: Você 5, Computador 7
+Jogada 9: Spock vs Lagarto - Derrota | Pontos: Você 0, Computador 11
